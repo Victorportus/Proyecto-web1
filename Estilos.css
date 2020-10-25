@@ -1,0 +1,65 @@
+.fondo{
+background-repeat: no-repeat;
+background-position: center;
+background-color:turquoise;
+}
+
+.margenes {
+margin: 5em;
+}
+
+.color-rojo {
+color: red;
+}
+.color-blanco{
+color: white;
+}
+
+h1 {
+font-family: "Mystery Quest", monospace;
+}
+
+p {
+font-size: 24px;
+font-family: 'berlin sans fb', monospace;
+}
+
+.borde-azul {
+border-color:blue;
+border-width: 10px;
+border-style: solid;
+border-radius: 50%;
+}
+
+.foto-pequeña {
+width: 200px;
+}
+
+.centrado{
+margin:10px auto;
+display:block;
+}
+
+.foto-grande{
+width: 300px;
+border-radius: 60%;
+}
+
+.borde-tabla{
+    border-color: red;
+    border-width: 5px;
+    border-style: solid;    
+}
+
+.letra-peque{
+    font-family:Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.centrar-tabla{
+    align-items: center;
+}
+
+.texto-centrado{
+    text-align: center;
+}
